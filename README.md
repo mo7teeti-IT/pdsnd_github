@@ -19,7 +19,7 @@ This project analyzes US bikeshare data for three major cities: **Chicago**, **N
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/7amziiiii/pdsnd_github.git
+   git clone https://github.com/mo7teeti-IT/pdsnd_github
    
 ### Credits
 This project is part of the Udacity Data Science Nanodegree.
